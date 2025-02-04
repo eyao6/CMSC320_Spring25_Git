@@ -6,3 +6,9 @@ Answer: In a data science class, we might use Git to version control our code an
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Tech Consulting
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging combines branches by creating a merge commit, preserving the full history, and is ideal for collaborative workflows. 
+        Rebasing replays commits onto another branch, creating a linear history, and is best for private branches or cleaner histories, 
+        but it rewrites history and should be used cautiously on shared branches.
