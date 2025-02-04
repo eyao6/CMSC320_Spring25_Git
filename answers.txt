@@ -2,3 +2,7 @@ Q1: Why might we consider using Git?
 
 Answer: In a data science class, we might use Git to version control our code and collaborate efficiently on projects, 
         ensuring that changes are tracked, experiments are reproducible, and team members can work simultaneously without conflicts.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Tech Consulting
